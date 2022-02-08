@@ -1,0 +1,14 @@
+div {
+    background-color: silver;
+    padding: 25px;
+    margin: 25px;
+    text-decoration-style:double;
+    border: blanchedalmond;
+    border-style: groove; 
+    justify-content: center;
+    font-size:xx-large;
+}
+
+.flex-container {
+    display: flex;
+}
